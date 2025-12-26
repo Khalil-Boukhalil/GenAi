@@ -143,5 +143,4 @@ This provides an interactive web interface for generating and reviewing memos.
 
 ---
 
-## License
-MIT
+
