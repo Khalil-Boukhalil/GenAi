@@ -201,7 +201,7 @@ If you change the human-in-the-loop flow (`business_memo_system.py` or `streamli
 ## Reproducibility & Submission Notes
 - Generated artifacts (logs, databases, cache files) are excluded from version control  
 - The repository is designed to be easy to clone and run by evaluators  
-- This repository represents the **final submission version** of the project  
+- This repository represents the **final submission version** of the project .
 
 ---
 
